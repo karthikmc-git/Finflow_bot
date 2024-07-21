@@ -53,8 +53,9 @@ Feel free to open issues or submit pull requests if you find bugs or have improv
 
 
 Acknowledgments
-Streamlit: For creating an easy-to-use web app framework.
-Plotly: For providing interactive charting capabilities.
-yfinance: For accessing financial data.
-Hugging Face: For their transformers library and pre-trained models.
-Hume AI: For emotion analysis APIs.
+-Streamlit: For creating an easy-to-use web app framework.
+-Plotly: For providing interactive charting capabilities.
+-yfinance: For accessing financial data.
+-Hugging Face: For their transformers library and pre-trained models.
+-Hume AI: For emotion analysis APIs.
+NOTE: This is just a prototype, need to integrate personal assistant in it!
