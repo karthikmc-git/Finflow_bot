@@ -49,14 +49,8 @@ Project Structure
 app.py: The main Streamlit application script.
 requirements.txt: A file listing the Python dependencies for the project.
 logo.png: Your logo image file (ensure to place it in the same directory as app.py).
-Customization
-Background Color: Change the background color by modifying the CSS in app.py. Look for the CSS block with the background-color property.
-Logo: Replace logo.png with your logo file or adjust the path in app.py.
-Contributing
 Feel free to open issues or submit pull requests if you find bugs or have improvements to suggest.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 Streamlit: For creating an easy-to-use web app framework.
