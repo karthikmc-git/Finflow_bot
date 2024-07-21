@@ -19,8 +19,8 @@ Clone the Repository
 
 sh
 Copy code
-git clone https://github.com/your-username/real-time-stock-graph.git
-cd real-time-stock-graph
+git clone https://github.com/karthikmc-git/Finflow_bot.git
+cd Finflow_bot
 Create a Virtual Environment
 
 sh
