@@ -1,0 +1,4 @@
+streamlit
+HUMEAI
+yfinance
+transformers 
